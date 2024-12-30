@@ -39,7 +39,7 @@ const posts = [
     title: "AI in Healthcare",
     description: "Artificial intelligence (AI) is used in healthcare to improve the experiences of patients and healthcare professionals. AI technologies, such as machine learning, natural language processing, and deep learning, can.",
     date: "2024-12-04",
-    image: "../images/silde5.png"
+    image: "../images/sildenew.jpg"
 },
 {
     id: '6',
