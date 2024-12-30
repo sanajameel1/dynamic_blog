@@ -8,7 +8,7 @@ export default function Feature() {
     Exploring the Key Features of Our Blog Website
 </h2>
 <p className='text-center mb-6 mt-4 text-sm text-black sm:text-base md:mb-10 lg:mb-12 animate-fade-in-up delay-100'>
-Sana Jameel Dynamic Blog is a vibrant platform where readers can explore informative, creative, and inspiring content. Covering topics like technology, education, business, and everyday life, it offers deep insights that not only inform but also spark new ideas. If you're looking to stay updated with the evolving trends of the modern world, this blog is the perfect choice for you!.
+Sana Jameel Dynamic Blog is a vibrant platform where readers can explore informative, creative, and inspiring content. Covering topics like technology, education, business, and everyday life, it offers deep insights that not only inform but also spark new ideas. If your looking to stay updated with the evolving trends of the modern world, this blog is the perfect choice for you!.
 </p>
 
                 <div className='mx-auto max-w-7xl px-5'>
