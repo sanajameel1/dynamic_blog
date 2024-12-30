@@ -47,7 +47,7 @@ const Contact = () => {
   </h2>
   <p className="leading-relaxed mb-5">
     Whether you have a question or just want to connect, I am here to help.
-    Fill out the form below and I’ll get back to you as soon as possible.
+    Fill out the form below and I ll get back to you as soon as possible.
   </p>
   <div className="relative mb-4">
     <label htmlFor="name" className="leading-7 text-sm text-black">
