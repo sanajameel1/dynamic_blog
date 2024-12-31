@@ -32,7 +32,7 @@ const posts = [
     title: "Natural Language Processing",
     description: "Natural language processing (NLP) is a type of artificial intelligence (AI) that allows computers to understand, interpret, and generate human language. NLP uses techniques from computer science, linguistics, and artificial intelligence to analyze text and speech data.",
     date: "2024-02-08",
-    image: "../images/silde5.jpg"
+    image: "../images/silde5.png"
 },
 {
     id: '5',
